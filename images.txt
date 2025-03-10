@@ -17,3 +17,4 @@ zabbix/zabbix-server-mysql:6.4.8-centos
 zabbix/zabbix-web-nginx-mysql:6.4.8-centos
 mysql:8.4.4
 mysql:8.0.18
+mysql:8.0.32
