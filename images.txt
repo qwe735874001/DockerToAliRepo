@@ -30,3 +30,4 @@ docker.io/calico/node:v3.25.0
 docker.io/calico/kube-controllers:v3.25.0
 nginx:1.17.10
 nginx:1.17.8
+busybox:1.28
